@@ -1,0 +1,1880 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_project_path	function"
+			],
+			[
+				"proje",
+				"project_path"
+			],
+			[
+				"Stat",
+				"Status::IDLE"
+			],
+			[
+				"Path",
+				"PathFollower	(homing_node.cpp)"
+			],
+			[
+				"uni",
+				"unique_ptr"
+			],
+			[
+				"runtim",
+				"runtime_error"
+			],
+			[
+				"_curre",
+				"_currentControlId"
+			],
+			[
+				"_cu",
+				"_currentControlId	(robot_driver.h)"
+			],
+			[
+				"wante",
+				"wantedFpsRobot"
+			],
+			[
+				"w",
+				"withB     - [#Base::Builder &#]withB(<#int b#>)"
+			],
+			[
+				"EX",
+				"EXPECT_EQ"
+			],
+			[
+				"ros_",
+				"ros_trigger_communicator_library	(CMakeLists.txt)"
+			],
+			[
+				"I",
+				"ITriggerEventHandler::Event"
+			],
+			[
+				"stat",
+				"statusHandler"
+			],
+			[
+				"IT",
+				"ITriggerEventHandler::Event::ABORT	(ros_trigger_communicator.cpp)"
+			],
+			[
+				"node",
+				"nodeHandle"
+			],
+			[
+				"eve",
+				"event_handler"
+			],
+			[
+				"START",
+				"START_HOMING"
+			],
+			[
+				"_no",
+				"_node_handle"
+			],
+			[
+				"_out",
+				"_output_triggers_publisher	(ros_trigger_communicator.h)"
+			],
+			[
+				"_in",
+				"_input_triggers_topic"
+			],
+			[
+				"_even",
+				"_event_handler	(ros_trigger_communicator.h)"
+			],
+			[
+				"out",
+				"output_triggers_topic"
+			],
+			[
+				"_tra",
+				"_travStorage"
+			],
+			[
+				"def",
+				"def	#def_guards_formatted"
+			],
+			[
+				"choppy",
+				"choppy_homing_node	(CMakeLists.txt)"
+			],
+			[
+				"world",
+				"worldFrameId"
+			],
+			[
+				"_pat",
+				"_pathFollowingActive"
+			],
+			[
+				"_pa",
+				"_pathFollowingActive"
+			],
+			[
+				"_path",
+				"_pathMutex"
+			],
+			[
+				"inter",
+				"interfaces	(cloud_listener.h)"
+			],
+			[
+				"choppy_",
+				"choppy_path_reverser	(CMakeLists.txt)"
+			],
+			[
+				"_max",
+				"_maxLinearSpeed"
+			],
+			[
+				"ang",
+				"angleBackward"
+			],
+			[
+				"old",
+				"oldPose"
+			],
+			[
+				"publi",
+				"publishFps"
+			],
+			[
+				"wor",
+				"worldFrameId	(test_path_follow_node.cpp)"
+			],
+			[
+				"next",
+				"nextNavigationGoal"
+			],
+			[
+				"_maxA",
+				"_maxAllowedAngleDiff"
+			],
+			[
+				"maxAll",
+				"maxAllowedDistDiff"
+			],
+			[
+				"refe",
+				"referenceUpdated"
+			],
+			[
+				"sim",
+				"simple_copyright	simple_copyright"
+			],
+			[
+				"homing_r",
+				"homing_ros_utils::tfTransform2eigen	(pose.h)"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"from",
+				"fromTransform"
+			],
+			[
+				"Eigen",
+				"Eigen::Vector3f	(utils.h)"
+			],
+			[
+				"_pro",
+				"_proportional_gain"
+			],
+			[
+				"CA",
+				"CarrotFollowerController	(test_path_follow_node.cpp)"
+			],
+			[
+				"look",
+				"lookAheadDistance"
+			],
+			[
+				"carro",
+				"carrot_follow_controller	(CMakeLists.txt)"
+			],
+			[
+				"move",
+				"moveToLocalFrameOf	(test_pose.cpp)"
+			],
+			[
+				"moveTo",
+				"moveToLocalFrame"
+			],
+			[
+				"moveT",
+				"moveToGlobalFrameFrom	(pose.h)"
+			],
+			[
+				"target",
+				"targetPose"
+			],
+			[
+				"_upda",
+				"_updateRefPoseLookahead	(test_path_follower.cpp)"
+			],
+			[
+				"CARR",
+				"CarrotFollowerController::TYPE	(test_carrot_follow_controller.cpp)"
+			],
+			[
+				"wa",
+				"wantedLookAheadDist"
+			],
+			[
+				"quer",
+				"queryPose"
+			],
+			[
+				"pra",
+				"pragma_once	pragma_once"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"_time",
+				"_timeDelay	(path_follower.cpp)"
+			],
+			[
+				"Te",
+				"TestPathFollower"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"new",
+				"newPose"
+			],
+			[
+				"ICP",
+				"IcpHandler"
+			],
+			[
+				"ODOM_",
+				"ODOM_CORRECTED	(gnuplotter.h)"
+			],
+			[
+				"ODOM",
+				"ODOM_BACKWARD	(gnuplotter.h)"
+			],
+			[
+				"Gnuo",
+				"Gnuplotter	(gnuplotter.h)"
+			],
+			[
+				"push",
+				"push_back	(path_reverser.cpp)"
+			],
+			[
+				"_odo",
+				"_odom_forward"
+			],
+			[
+				"ODO",
+				"ODOM_FORWARD"
+			],
+			[
+				"swi",
+				"switch	(pid_controller.cpp)"
+			],
+			[
+				"Gnup",
+				"Gnuplotter"
+			],
+			[
+				"m_cu",
+				"m_current_last"
+			],
+			[
+				"m_curre",
+				"m_currently_in_use"
+			],
+			[
+				"Re",
+				"ReturnCode"
+			],
+			[
+				"Pose",
+				"PoseTest"
+			],
+			[
+				"T_",
+				"T_to"
+			],
+			[
+				"loca",
+				"localFromGlobal"
+			],
+			[
+				"_prev",
+				"_prevActualPose"
+			],
+			[
+				"robot",
+				"robotDriver"
+			],
+			[
+				"path_",
+				"path_follower	(CMakeLists.txt)"
+			],
+			[
+				"pid",
+				"pidController"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"driv",
+				"driveCommander"
+			],
+			[
+				"S",
+				"Strategy::PD	(pid_controller.cpp)"
+			],
+			[
+				"para",
+				"paramP	(pid_controller.h)"
+			],
+			[
+				"contr",
+				"controller	(pid_controller.cpp)"
+			],
+			[
+				"s",
+				"stamp"
+			],
+			[
+				"_pre",
+				"_previousErrorTimestamp"
+			],
+			[
+				"_previ",
+				"_previousErrorTimestamp	(pid_controller.h)"
+			],
+			[
+				"_curr",
+				"_currentSignedError"
+			],
+			[
+				"_pra",
+				"_paramD"
+			],
+			[
+				"_par",
+				"_paramI"
+			],
+			[
+				"_c",
+				"_computeD	(pid_controller.h)"
+			],
+			[
+				"_co",
+				"_computeI	(pid_controller.h)"
+			],
+			[
+				"global",
+				"globalFromLocal"
+			],
+			[
+				"uitn",
+				"uint64_t	(logger.h)"
+			],
+			[
+				"local",
+				"localToGlobal	(pose.h)"
+			],
+			[
+				"rea",
+				"realPose"
+			],
+			[
+				"ICp",
+				"IcpHandler	(path_reverser.h)"
+			],
+			[
+				"Clou",
+				"CloudPoseBundle	(path_reverser.cpp)"
+			],
+			[
+				"temp",
+				"tempDist"
+			],
+			[
+				"min",
+				"minDist"
+			],
+			[
+				"dist",
+				"distDiff"
+			],
+			[
+				"_last",
+				"_lastRefPoseIndex	(path_reverser.h)"
+			],
+			[
+				"robo",
+				"robotDriver"
+			],
+			[
+				"interface",
+				"interfaces	(path_reverser.h)"
+			],
+			[
+				"_vel",
+				"_velocityUpdateEventHandler"
+			],
+			[
+				"pub",
+				"publishPause"
+			],
+			[
+				"upda",
+				"updateFps"
+			],
+			[
+				"wanted",
+				"wantedFps	(path_reverser.cpp)"
+			],
+			[
+				"wan",
+				"wantedFps"
+			],
+			[
+				"back_",
+				"back_real_odometry	(logger.h)"
+			],
+			[
+				"odom_",
+				"odom_back	(plot_diffs.gp)"
+			],
+			[
+				"back_re",
+				"back_real_destinations	(logger.h)"
+			],
+			[
+				"handy",
+				"handy_tools::currentDateTime	(logger.h)"
+			],
+			[
+				"Logg",
+				"Logger::instance	(path_reverser.cpp)"
+			],
+			[
+				"homi",
+				"homing_utils	(logger.h)"
+			],
+			[
+				"FORWA",
+				"FORWARD_ODOMETRY	(logger.h)"
+			],
+			[
+				"BACK",
+				"BACKWARD_TARGET_DESTINATIONS	(logger.h)"
+			],
+			[
+				"log",
+				"logType"
+			],
+			[
+				"std",
+				"std_msgs::Int16"
+			],
+			[
+				"_glo",
+				"_globalMapTransform"
+			],
+			[
+				"TravGr",
+				"TravGridWithPose"
+			],
+			[
+				"TravG",
+				"TravGridWithPose"
+			],
+			[
+				"nonTra",
+				"nonTravCounter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "protected_test/main.cpp",
+			"settings":
+			{
+				"buffer_size": 735,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/igor/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.py",
+			"settings":
+			{
+				"buffer_size": 5265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "c++_tests.sublime-project",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "singleton/main.cpp",
+			"settings":
+			{
+				"buffer_size": 605,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++11/C++11.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 217.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pep8",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lintthi",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"git: push to existing branch"
+			],
+			[
+				"pull",
+				"git: pull"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"bran",
+				"git: branch"
+			],
+			[
+				"bra",
+				"git: branch"
+			],
+			[
+				"b",
+				"git: branch"
+			],
+			[
+				"chec",
+				"git: checkout"
+			],
+			[
+				"pu",
+				"git: push to existing branch"
+			],
+			[
+				"fetc",
+				"git: fetch"
+			],
+			[
+				"branch",
+				"git: branch"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"match",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"sta",
+				"git: status"
+			],
+			[
+				"dele",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"sat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"path",
+				"Insert File Path"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"doc",
+				"AutoDocstring: All"
+			],
+			[
+				"do",
+				"AutoDocstring: All"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git ",
+				"Git: Checkout Current File"
+			],
+			[
+				"addc",
+				"Git: Add Current File"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git bra",
+				"Git: Delete Branch"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"stas",
+				"Git: Stash Changes"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git re",
+				"Git: Diff Current File"
+			],
+			[
+				"forma",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"asty",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"mat",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"matla",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mard",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"toupp",
+				"Snippet: CMake: string(TOUPPER)"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"html",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"giti",
+				"Gitignore: New gitignore"
+			],
+			[
+				"8",
+				"PEP8: Format Code"
+			],
+			[
+				"docs",
+				"Anaconda: Display object docs"
+			],
+			[
+				"pep",
+				"PEP8: Format Code"
+			],
+			[
+				"mit",
+				"Licence Snippet: MIT"
+			],
+			[
+				"gitig",
+				"Gitignore: New gitignore"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"matl",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"lice",
+				"Licence Snippet: MIT"
+			],
+			[
+				"MIt",
+				"Licence Snippet: MIT"
+			],
+			[
+				"comme",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"reploc",
+				"SublimeREPL: Octave"
+			],
+			[
+				"replmat",
+				"SublimeREPL: Matlab"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 537.0,
+		"history":
+		[
+			"view.show_popup('Hello, <b>World!</b><br><a href=\"moo\">Click Me</a>', on_navigate=print)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/igor/Code/c++_tests",
+		"/home/igor/Code/c++_tests/singleton"
+	],
+	"file_history":
+	[
+		"/home/igor/.config/sublime-text-3/Packages/User/C++11.sublime-settings",
+		"/home/igor/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/home/igor/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.py",
+		"/home/igor/Code/c++_tests/override_test/override.cpp",
+		"/home/igor/Code/c++_tests/protected_test/main.cpp",
+		"/home/igor/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/path_follower.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/path_follower.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/utils.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/choppy_path_reverser.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/choppy_path_reverser.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/logger.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/icp_handler.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/icp_handler.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/path_reverser.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/choppy_path_follower.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/nodes/keyboard_triggered_choppy.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/nodes/choppy_homing_node.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/nodes/homing_node.cpp",
+		"/home/igor/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/igor/.config/sublime-text-3/Packages/User/sublime-rtags.sublime-settings",
+		"/home/igor/.config/sublime-text-3/Packages/sublime-rtags/sublime-rtags.sublime-settings",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/pose.h",
+		"/usr/share/applications/pomello.desktop",
+		"/home/igor/.config/catkin/verb_aliases/00-default-aliases.yaml",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/alg/re05_scanner/re05_nodes/src/re05_full_field_scan_node.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/navigation/src/nav_nodes/demoPathPlanningWithAutonomousDriving_node.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/navigation/src/nav_nodes/demo_driveInMap.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/srv/LocalMapByIdSrv.srv",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/srv/IdsSrv.srv",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/.gitignore",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/CMakeLists.txt",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/alg/alg_gui/package.xml",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/common/config/rodi/system/ros_nodes/uniroma.yaml",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/alg/alg_library/guilib/RosHandler.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/traversability/src/trav_nodes/trav_ros_handler.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/traversability/src/trav_nodes/trav_ros_handler.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/alg/alg_nodes/joy_to_twist/joy_to_twist_node.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/navigation/src/nav_nodes/demoAutonomously.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/navigation/src/nav_nodes/main.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/nodes/test_path_follow_node.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/nodes/test_robot_rotation.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/nodes/test_choppy_path_follow_node.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/ros_handlers/robot_driver.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/interfaces/drive_commander.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/ros_handlers/robot_driver.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/traversability/src/trav_library/traversability_manager.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/test/CMakeLists.txt",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/test/test_choppy_path_reverser.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/robot_strategy_controller.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/ros_handlers/ros_trigger_communicator.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/ros_handlers/ros_trigger_communicator.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/test/test_robot_driver.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/traversability/src/trav_library/traversability_manager.h",
+		"/home/igor/Code/c++_tests/builder_test/builder.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/nodes/CMakeLists.txt",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/ros_wrappers/image_message_listener.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/robot_strategy_controller.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/ros_handlers/CMakeLists.txt",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/ros_handlers/cloud_listener.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/path_reverser.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/interfaces/trigger_event_handler.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/ros_handlers/cloud_listener.h",
+		"/home/igor/Code/OpenNI2/ThirdParty/PSCommon/BuildSystem/CommonCppMakefile",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/ros_wrappers/ros_utils.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/loop_closer2/fps_trajectory_loop_closer_node.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/ros_wrappers/ros_utils.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/readme.md",
+		"/home/igor/Code/osm_g2o_mapping/CMakeLists.txt",
+		"/home/igor/Code/osm_g2o_mapping/readme.md",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/CMakeLists.txt",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/gitlab-ci.yml",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/utils_ros.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/navigation/src/nav_nodes/explore_node.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/fps_ros_bridge/cloud_publisher_trigger.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/tracker/tracker.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/tracker/tracker.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/fps_ros_bridge/cloud_publisher_trigger.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/test/test_pid_controller.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/CMakeLists.txt",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/test/test_pose.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/core_viewers/fps_aligner_gui_app.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/gl_helpers/simple_viewer.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/core/base_projector.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/core/cloud.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/alg/alg_tools/CMakeLists.txt",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/traversability/src/trav_library/grid3d.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/traversability/src/trav_library/grid2d.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/traversability/src/trav_library/grid2d.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/pid_controller.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/choppy_path_follower.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/test/test_path_follower.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/navigation/CMakeLists.txt",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/pid_controller.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/carrot_follow_controller.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/test/test_carrot_follow_controller.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/CMakeLists.txt",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/navigation/package.xml",
+		"/home/igor/Code/temp/file.gpx",
+		"/home/igor/Code/temp/input_endo.gpx",
+		"/home/igor/Code/temp/output.gpx",
+		"/home/igor/Downloads/20150809_112920.gpx",
+		"/home/igor/Code/temp/parse_gps.py",
+		"/home/igor/Code/temp/output.xml",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/navigation/src/nav_nodes/exploreAndNavigate_node.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/homing/carrot_follow_controller.cpp",
+		"/home/igor/Data/homing/datasets/test4/test.log",
+		"/home/igor/Data/homing/datasets/test4/back_real_destinations.log",
+		"/home/igor/Data/homing/datasets/test4/plot_paths.gp",
+		"/home/igor/Data/homing/datasets/test4/back_real_odometry.log",
+		"/home/igor/Data/homing/datasets/test5/back_real_odometry.log",
+		"/home/igor/Data/homing/datasets/test5/back_real_destinations.log",
+		"/home/igor/Data/homing/datasets/test5/back_target_destinations.log",
+		"/home/igor/Data/homing/datasets/test4/odom_forward.log",
+		"/home/igor/Data/homing/datasets/test4/back_target_destinations.log",
+		"/home/igor/Data/homing/datasets/test5/odom_forward.log",
+		"/home/igor/Data/homing/datasets/test5/test.log",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/interfaces/command_controller.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/txt_io/sensor_message_sorter.cpp",
+		"/home/igor/Data/homing/data_robot/run_aligner.sh",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/cmake_config.h.in",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/cloud_pose_bundle.h",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/test/test_main.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper/src/core_examples/fps_projective_aligner_test.cpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/buffer.hpp",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/io/gnuplotter.h",
+		"/home/igor/External/gnuplot-iostream/example-misc.cc",
+		"/home/igor/Code/catkin_ws/src/rovina-dev/ubn/homing/src/utils/buffer.h"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			"output.gpx",
+			"",
+			"/home/igor/Code/catkin_ws/src/rovina-dev/uniroma/fps_mapper",
+			"",
+			"first_res.gm2dl",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Blah",
+			"_index",
+			">>>>",
+			"robotDriver",
+			"_driver.",
+			"_ctrl_id",
+			"_curr_ctrl_id",
+			"ctrl_id",
+			"control_id",
+			"PublishTimer",
+			"publishTimer",
+			"PublishTimer",
+			"setPublishTimer",
+			");",
+			"TransformListenerPtr",
+			"NodeHandlePtr",
+			"withRosNodeHandlePtr",
+			"void",
+			"set",
+			"tf",
+			"choppy_homing_node",
+			"ITriggerEventHandle",
+			"msg.",
+			"_shouldRecord",
+			"RosStringListener",
+			"NULL",
+			"_updates_pub",
+			"float",
+			"follower",
+			"500",
+			"1000",
+			"const",
+			"(5)",
+			"ChoppyPathReverserreverserTest",
+			"follower",
+			"TestPathFollower",
+			"PathFollowerTest",
+			"follower",
+			"TestPathFollower",
+			"MapperPose",
+			"mapperPose",
+			"ChoppyPathFollower",
+			"trkseg",
+			"2",
+			"ns2",
+			"ns[0-9]:",
+			"ns0",
+			">\n",
+			"ns?:",
+			"robot",
+			"test_robot_driver",
+			"robotDriverTest",
+			"mapperPose",
+			"goal",
+			"start",
+			"wantedLookAheadDist",
+			"_indexBackLookupMargin",
+			"_path",
+			"_lastRefIndex",
+			", ",
+			"INFO: odom says robot is at:",
+			", ",
+			"INFO: Actually arrived at:",
+			", ",
+			"INFO: Wanted to arrive at:",
+			", ",
+			"PathReverser: added cloud at",
+			"2:1",
+			", ",
+			"INFO: Actually arrived at:",
+			", ",
+			"INFO: Wanted to arrive at:",
+			", ",
+			"INFO: odom says robot is at",
+			"PathReverser: added cloud at",
+			", ",
+			"PathReverser: added cloud at",
+			", ",
+			"PathReverser: added cloud at",
+			"bundle",
+			"NEW_FRAME_CREATED",
+			"current_cloud",
+			"moveToGlobalFrameFrom",
+			"moveToLocalFrame",
+			"utils",
+			"globalFromLocal",
+			"localFromGlobal",
+			"PidControllerTest",
+			"lookaheadDistance",
+			"std::",
+			"_pidController",
+			"PidController",
+			"pidController",
+			"_pidController",
+			"setw(8) <<",
+			"_savingDelay",
+			"RichPoint(",
+			"Il male sia con te",
+			"cum numm",
+			"sin(newPose.theta())",
+			"cos(newPose.theta())",
+			"fps_aligner_gui_app",
+			"_corrected_odom",
+			"std::vector<double>",
+			"gp",
+			"time",
+			"time_buffer",
+			"time",
+			"buffer_size",
+			"CircleBuffer",
+			"_CIRCULAR_BUFFER_H_",
+			"CircleConcurrentBuffer",
+			"CircleBuffer",
+			"pose2",
+			"from",
+			"TFrom",
+			"localFrame",
+			"transf",
+			"framePos",
+			"localFramePos",
+			"framePos",
+			"realPose",
+			"newPose",
+			"Reverser",
+			"reverser",
+			"odomFrameId",
+			"float",
+			"PathFollowerBase"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"point2d",
+			"0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "protected_test/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_savvy.file_path": "/home/igor/Code/c++_tests/protected_test/main.cpp",
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1457974862.03,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/igor/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_savvy.file_path": "/home/igor/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.py",
+							"git_savvy.repo_path": "/home/igor/.config/sublime-text-3",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tabs_extra_last_activated": 1457969339.98,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "c++_tests.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_savvy.file_path": "/home/igor/Code/c++_tests/c++_tests.sublime-project",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tabs_extra_last_activated": 1457705507.63,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "singleton/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_savvy.file_path": "/home/igor/Code/c++_tests/singleton/main.cpp",
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"tabs_extra_last_activated": 1457971572.94,
+							"tabs_extra_last_activated_sheet_index": 3
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.GitSavvy":
+	{
+		"height": 624.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.autopep8":
+	{
+		"height": 144.0
+	},
+	"output.cc":
+	{
+		"height": 132.0
+	},
+	"output.exec":
+	{
+		"height": 601.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 223.0
+	},
+	"pinned_build_system": "Packages/C++11/C++11.sublime-build",
+	"project": "c++_tests.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pathre",
+				"ubn/homing/src/homing/path_reverser.h"
+			],
+			[
+				"chopp",
+				"ubn/homing/src/homing/choppy_path_reverser.h"
+			],
+			[
+				"chopph",
+				"ubn/homing/src/nodes/choppy_homing_node.cpp"
+			],
+			[
+				"homin",
+				"ubn/homing/src/nodes/homing_node.cpp"
+			],
+			[
+				"robot",
+				"ubn/homing/src/ros_handlers/robot_driver.cpp"
+			],
+			[
+				"choppyh",
+				"ubn/homing/src/nodes/choppy_homing_node.cpp"
+			],
+			[
+				"follo",
+				"ubn/homing/src/homing/choppy_path_follower.h"
+			],
+			[
+				"robotdr",
+				"ubn/homing/src/ros_handlers/robot_driver.h"
+			],
+			[
+				"contro",
+				"ubn/homing/src/interfaces/command_controller.h"
+			],
+			[
+				"pid",
+				"ubn/homing/src/homing/pid_controller.cpp"
+			],
+			[
+				"fps_al",
+				"uniroma/fps_mapper/src/core_viewers/fps_aligner_gui_app.cpp"
+			],
+			[
+				"fps_ali",
+				"uniroma/fps_mapper/src/core_examples/fps_projective_aligner_test.cpp"
+			],
+			[
+				"homi",
+				"ubn/homing/src/nodes/homing_node.cpp"
+			],
+			[
+				"buffer",
+				"ubn/homing/src/utils/buffer.hpp"
+			],
+			[
+				"path",
+				"ubn/homing/src/homing/path_follower.h"
+			],
+			[
+				"pose",
+				"ubn/homing/test/test_pose.cpp"
+			],
+			[
+				"blob",
+				"uniroma/fps_mapper/src/boss/blob.cpp"
+			],
+			[
+				"",
+				"uniroma/fps_mapper/src/core/cloud.h"
+			],
+			[
+				"roshan",
+				"alg/alg_gui/guilib/RosHandler.h"
+			],
+			[
+				"for",
+				"~/Data/homing/data_robot/test_homing_good/forward.log"
+			],
+			[
+				"alignertest",
+				"uniroma/fps_mapper/src/core_examples/projective_aligner_test.cpp"
+			],
+			[
+				"cloud",
+				"uniroma/fps_mapper/src/core/cloud.h"
+			],
+			[
+				"cloud_li",
+				"ubn/homing/src/ros_handlers/cloud_listener.h"
+			],
+			[
+				"icpha",
+				"ubn/homing/src/utils/icp_handler.h"
+			],
+			[
+				"project",
+				"uniroma/fps_mapper/src/core/projective_aligner.h"
+			],
+			[
+				"matla",
+				"ubn/homing/src/matlab_handler/matlab_handler.cpp"
+			],
+			[
+				"matlab",
+				"ubn/homing/src/matlab_handler/matlab_handler.h"
+			],
+			[
+				"test",
+				"test2.log"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/rovina_text.sublime-project"
+			],
+			[
+				"occu",
+				"~/Code/occupancy_grid/occupy.sublime-project"
+			],
+			[
+				"clou",
+				"~/Code/catkin_ws/src/cloud_converter/cloud_converter.sublime-project"
+			],
+			[
+				"icra",
+				"~/Papers/icra2015bogoslavskyi/paperICRA2015.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "Traversab",
+		"selected_items":
+		[
+			[
+				"Traversab",
+				"TraversabilityAnalyzer"
+			],
+			[
+				"NNal",
+				"NNAligner"
+			],
+			[
+				"cloud",
+				"Cloud"
+			],
+			[
+				"draw",
+				"draw"
+			],
+			[
+				"localmapvi",
+				"LocalMapViewer"
+			],
+			[
+				"refiner",
+				"RefinerViewer"
+			],
+			[
+				"Grid2",
+				"Grid2D"
+			],
+			[
+				"merge",
+				"merge"
+			],
+			[
+				"merger",
+				"Merger"
+			],
+			[
+				"matcher",
+				"BaseMatcher"
+			],
+			[
+				"Event",
+				"Event"
+			],
+			[
+				"onim",
+				"onImageReceived"
+			],
+			[
+				"onImage",
+				"onImageReceived"
+			],
+			[
+				"rich",
+				"RichPoint"
+			],
+			[
+				"Cloud",
+				"Cloud"
+			],
+			[
+				"constru",
+				"constructFromLog"
+			],
+			[
+				"addpo",
+				"addPoint"
+			],
+			[
+				"robotla",
+				"RobotLaser"
+			],
+			[
+				"EstimatePropa",
+				"EstimatePropagator"
+			]
+		],
+		"width": 512.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
