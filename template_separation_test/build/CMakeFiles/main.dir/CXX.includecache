@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/igor/Code/c++_tests/template_separation_test/./lib.h
+
+/home/igor/Code/c++_tests/template_separation_test/main.cpp
+stdio.h
+-
+./lib.h
+/home/igor/Code/c++_tests/template_separation_test/./lib.h
+

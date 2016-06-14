@@ -1,0 +1,2 @@
+/home/igor/Code/c++_tests/template_separation_test/build/CMakeFiles/main.dir
+/home/igor/Code/c++_tests/template_separation_test/build/CMakeFiles/my_lib.dir
