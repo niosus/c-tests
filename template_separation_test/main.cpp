@@ -6,8 +6,8 @@
 #include "./lib.h"
 
 int main(int argc, char const *argv[]) {
-  MyLibClass<int> my_lib_class;
-  int s = my_lib_class.sum(2, 3);
-  fprintf(stderr, "res = %d\n", s);
+  MyLibClass<float> my_lib_class;
+  float s = my_lib_class.sum(2.0f, 3.0f);
+  fprintf(stderr, "res = %f\n", s);
   return 0;
 }

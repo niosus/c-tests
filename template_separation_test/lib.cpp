@@ -10,3 +10,4 @@ T MyLibClass<T>::sum(T a, T b) const {
 }
 
 template class MyLibClass<int>;
+template class MyLibClass<float>;
